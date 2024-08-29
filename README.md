@@ -25,10 +25,21 @@
 
 - **Home Section**: Shows recent plays and trending music, with 3 images:
   1. **HomePage**: Displays images of various music tracks.
+
+![Home_page (Mobile view)](Home_page (Mobile view))
+
 ![HomePage](assets/images/Homepage.png)
-  2. **Playlist**: Shows the list of songs available in the playlist 🎶
+
+  3. **Playlist**: Shows the list of songs available in the playlist 🎶
+
+![Playlist (Mobile view)](Playlist (Mobile view))
+
 ![Playlist](assets/images/Playlist.png)
-  3. **Player**: Big screen area where the currently playing song is displayed 🎤
+
+  5. **Player**: Big screen area where the currently playing song is displayed 🎤
+
+![Player (Mobile view)](Player (Mobile view))
+
 ![Player](assets/images/Player.png)
 
 ## **Key Files** 📂
