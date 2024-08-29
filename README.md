@@ -24,23 +24,32 @@
 ## **4. HTML Structure** 🏗️
 
 - **Home Section**: Shows recent plays and trending music, with 3 images:
+
   1. **HomePage**: Displays images of various music tracks.
+     
+    - Mobile View:
+      ![HomePage (Mobile view)](assets/images/Home_page%20(Mobile%20view).png)
+      
+    - Regular View:
+      ![HomePage](assets/images/Homepage.png)
 
-![Home_page (Mobile view)](assets/images/Homepage(Mobile view).png)
 
-![HomePage](assets/images/Homepage.png)
+  2. **Playlist**: Shows the list of songs available in the playlist 🎶
+     
+    - Mobile View:
+      ![Playlist (Mobile view)](assets/images/Playlist%20(Mobile%20view).png)
+      
+    - Regular View:
+      ![Playlist](assets/images/Playlist.png)
+    
 
-  3. **Playlist**: Shows the list of songs available in the playlist 🎶
+  3. **Player**: Big screen area where the currently playing song is displayed 🎤
+   
+    - Mobile View:
+      ![Player (Mobile view)](assets/images/Player%20(Mobile%20view).png)
 
-![Playlist (Mobile view)](assets/images/Playlist(Mobile view).png)
-
-![Playlist](assets/images/Playlist.png)
-
-  5. **Player**: Big screen area where the currently playing song is displayed 🎤
-
-![Player (Mobile view)](assets/images/Player(Mobile view).png)
-
-![Player](assets/images/Player.png)
+    - Regular View:
+      ![Player](assets/images/Player.png)
 
 ## **Key Files** 📂
 
