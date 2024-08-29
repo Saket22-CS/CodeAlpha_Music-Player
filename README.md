@@ -28,28 +28,27 @@
   1. **HomePage**: Displays images of various music tracks.
      
     - Mobile View:
-      ![HomePage (Mobile view)](assets/images/Home_page%20(Mobile%20view).png)
-      
-    - Regular View:
-      ![HomePage](assets/images/Homepage.png)
+      <img src="assets/images/Home_page%20(Mobile%20view).png" alt="HomePage (Mobile view)" width="400"/>
 
+    - Regular View:
+      <img src="assets/images/Homepage.png" alt="HomePage" width="400"/>
 
   2. **Playlist**: Shows the list of songs available in the playlist 🎶
      
     - Mobile View:
-      ![Playlist (Mobile view)](assets/images/Playlist%20(Mobile%20view).png)
+      <img src="assets/images/Playlist%20(Mobile%20view).png" alt="Playlist (Mobile view)" width="400"/>
       
     - Regular View:
-      ![Playlist](assets/images/Playlist.png)
-    
+      <img src="assets/images/Playlist.png" alt="Playlist" width="400"/>
 
   3. **Player**: Big screen area where the currently playing song is displayed 🎤
-   
+ 
     - Mobile View:
-      ![Player (Mobile view)](assets/images/Player%20(Mobile%20view).png)
-
+      <img src="assets/images/Player%20(Mobile%20view).png" alt="Player (Mobile view)" width="400"/>
+      
     - Regular View:
-      ![Player](assets/images/Player.png)
+      <img src="assets/images/Player.png" alt="Player" width="400"/>
+
 
 ## **Key Files** 📂
 
